@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="northwind" match-name="customers"/>
+  <table-filter match-catalog="northwind" match-name="employee_privileges"/>
+  <table-filter match-catalog="northwind" match-name="employees"/>
+  <table-filter match-catalog="northwind" match-name="inventory_transaction_types"/>
+  <table-filter match-catalog="northwind" match-name="inventory_transactions"/>
+  <table-filter match-catalog="northwind" match-name="invoices"/>
+  <table-filter match-catalog="northwind" match-name="order_details"/>
+  <table-filter match-catalog="northwind" match-name="order_details_status"/>
+  <table-filter match-catalog="northwind" match-name="orders"/>
+  <table-filter match-catalog="northwind" match-name="orders_status"/>
+  <table-filter match-catalog="northwind" match-name="orders_tax_status"/>
+  <table-filter match-catalog="northwind" match-name="privileges"/>
+  <table-filter match-catalog="northwind" match-name="products"/>
+  <table-filter match-catalog="northwind" match-name="purchase_order_details"/>
+  <table-filter match-catalog="northwind" match-name="purchase_order_status"/>
+  <table-filter match-catalog="northwind" match-name="purchase_orders"/>
+  <table-filter match-catalog="northwind" match-name="sales_reports"/>
+  <table-filter match-catalog="northwind" match-name="shippers"/>
+  <table-filter match-catalog="northwind" match-name="strings"/>
+  <table-filter match-catalog="northwind" match-name="suppliers"/>
+</hibernate-reverse-engineering>
